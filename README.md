@@ -70,10 +70,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SerroukhAc/SerroukhAc/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=achraf.serroukh&theme=dark" alt="Layout with last medium posts"  />
 </div>
