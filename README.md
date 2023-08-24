@@ -70,8 +70,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/SerroukhAc/SerroukhAc/output/snake.svg" alt="Snake animation" />
 
 ###
